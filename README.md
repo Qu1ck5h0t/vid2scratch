@@ -1,7 +1,7 @@
 # vid2scratch
 
 ### How do I use this?
-After running install_dependencies.py, run main.py and follow the prompts.
+Clone the repo into a folder (ensure that all the files are in the same folder). After running install_dependencies.py, run main.py and follow the prompts.
 
 ### What does this do?
 This tool converts any mp4 video into a scratch project that effectively acts as a runtime for a 720p 30fps video, with frames and audio included in the project file.
